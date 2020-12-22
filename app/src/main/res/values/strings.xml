@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TSF_Social_IntegrationApp</string>
+    <string name="or">or</string>
+    <string name="user">User_details</string>
+    <string name="user_profile">User profile:</string>
+    <string name="phone">phone:</string>
+    <string name="e_mail">e-mail:</string>
+    <string name="current_position">Current position</string>
+    <string name="works_at">Works at</string>
+    <string name="studied_in">Studied in</string>
+    <string name="from">From</string>
+    <string name="lives_in">Lives in</string>
+    <string name="age">Age</string>
+    <string name="name">Name</string>
+    <string name="userprofile">User Profile</string>
+</resources>
