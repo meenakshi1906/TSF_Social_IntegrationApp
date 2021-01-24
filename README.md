@@ -4,3 +4,5 @@ of mail id and password to login through LinkedIn and Facebook. The second activ
 Main Activity:
 ![Screenshot_2021-01-24-14-52-11-007_com example tsf_social_integrationapp](https://user-images.githubusercontent.com/62303802/105626528-3be51780-5e56-11eb-952c-06ec99f37563.jpg)
 
+![Screenshot_2021-01-24-14-52-13-909_com example tsf_social_integrationapp](https://user-images.githubusercontent.com/62303802/105626603-8bc3de80-5e56-11eb-8e7e-35b63365eabb.jpg)
+
