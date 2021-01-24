@@ -10,7 +10,7 @@ Main Activity:
 
 <img src="https://user-images.githubusercontent.com/62303802/105626995-d561f880-5e59-11eb-9533-2e6122b7e71b.jpg" width="200" height="400" />
 
-<img src="https://user-images.githubusercontent.com/62303802/105627008-f4608a80-5e59-11eb-92d8-6ff32694ae22.png" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/62303802/105627371-a0a37080-5e5c-11eb-9502-60c937537908.jpg" width="200" height="400" />
 
 <img src="https://user-images.githubusercontent.com/62303802/105627021-122def80-5e5a-11eb-9387-0f45144232f1.png" width="1200" height="200" />
 
